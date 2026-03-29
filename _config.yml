@@ -27,7 +27,7 @@ author:
   location         : "Daejeon, Korea"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?hl=ko&user=leuazaYAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=5cnLFocAAAAJ&hl=ko"
   email            : "hyejin_hur@korea.ac.kr"
   researchgate     :  
   uri              :
@@ -44,7 +44,7 @@ author:
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "hyejinhur"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  dblp             : "https://dblp.org/pid/408/6844.html"
   orcid            : "https://orcid.org/0009-0007-9997-7354"
   pinterest        :
   soundcloud       :
