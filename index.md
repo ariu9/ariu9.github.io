@@ -58,7 +58,7 @@ NeurIPS 2025 NextVid Workshop (Poster)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MMSports 2025</div><img src='images/Sadvc.jpg' alt="Single-anchored Multi-modal Dense Video Captioning for Esports Broadcasts Commentaries" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MMSports 2025</div><img src='images/Conference_MMSports2025.jpg' alt="Single-anchored Multi-modal Dense Video Captioning for Esports Broadcasts Commentaries" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Single-anchored Multi-modal Dense Video Captioning for Esports Broadcasts Commentaries](https://dl.acm.org/doi/10.1145/3728423.3759412)
