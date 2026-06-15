@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Hyejin Hur"
+title                    : "Ari Yu"
 description              : ""
 repository               : "ariu9/ariu9.github.io"
 google_scholar_stats_use_cdn : true
@@ -22,13 +22,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Ari Yu"
-  avatar           : "images/hj.png"
-  bio              : "MS/PhD Student @ Korea University"
+  avatar           : "images/ariyu.jpg"
+  bio              : "MS Student @ UST-ETRI"
   location         : "Daejeon, Korea"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=5cnLFocAAAAJ&hl=ko"
-  email            : "hyejin_hur@korea.ac.kr"
+  # googlescholar    : "https://scholar.google.com/citations?user=5cnLFocAAAAJ&hl=ko"
+  email            : "ari@etri.re.kr"
   researchgate     :  
   uri              :
   bitbucket        :
@@ -43,9 +43,9 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "hyejinhur"
-  dblp             : "https://dblp.org/pid/408/6844.html"
-  orcid            : "https://orcid.org/0009-0007-9997-7354"
+  linkedin         : "dbdkfl78"
+  # dblp             : "https://dblp.org/pid/408/6844.html"
+  orcid            : "https://orcid.org/0009-0003-9810-5301"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
