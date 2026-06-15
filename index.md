@@ -21,6 +21,11 @@ My research interests include computer vision and multimodal data processing.
 <br>
 <br>
 
+# News
+- *2025*, Featured in UST Story: [Development of generative AI-based E-sports service automation platform technology](https://blog.naver.com/uststory/224163085962?trackingCode=rss)
+<br>
+<br>
+
 
 # Educations
 - *2024.03 - (now)*, M.S. in Artificial Intelligence, University of Science and Technology.
@@ -90,7 +95,7 @@ Engineering Applications of Artificial Intelligence, 154, 111055. (IF 8.0)
 
 **Ari Yu**, Hyeong-Gyu Jang, and Sang-Kwang Lee
 
-IEIE 2025
+IEIE 2025 (Poster)
 
 [**Paper**](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE12331973)
 
@@ -102,9 +107,9 @@ IEIE 2025
 
 [MOBA 게임에 대한 숏폼 영상 자동 생성 방법](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE12332321)
 
-Hyeong-Gyu Jang, **Ari Yu**, and Sang-Kwang Lee
+Hyeong-Gyu Jang, **Ari Yu**, and Sang-Kwang Lee 
 
-IEIE 2025
+IEIE 2025 (Poster)
 
 [**Paper**](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE12332321)
 
