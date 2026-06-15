@@ -88,10 +88,10 @@ Engineering Applications of Artificial Intelligence, 154, 111055. (IF 8.0)
 
 ## Domestic
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEIE 2025</div><img src='images/videocap_ari.JPG' alt="멀티모달 고밀도 비디오 캡셔닝 기반 MOBA 게임 하이라이트 해설 생성" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEIE 2025</div><img src='images/videocap_ari.JPG' alt="Multimodal Dense Video Captioning for MOBA Game Highlights Commentaries" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[멀티모달 고밀도 비디오 캡셔닝 기반 MOBA 게임 하이라이트 해설 생성](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE12331973)
+[Multimodal Dense Video Captioning for MOBA Game Highlights Commentaries](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE12331973)
 
 **Ari Yu**, Hyeong-Gyu Jang, and Sang-Kwang Lee
 
@@ -102,10 +102,10 @@ IEIE 2025 (Poster)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEIE 2025</div><img src='images/videocap.JPG' alt="MOBA 게임에 대한 숏폼 영상 자동 생성 방법" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEIE 2025</div><img src='images/videocap.JPG' alt="A Short-form Content Generation Scheme for MOBA Games" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[MOBA 게임에 대한 숏폼 영상 자동 생성 방법](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE12332321)
+[A Short-form Content Generation Scheme for MOBA Games](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE12332321)
 
 Hyeong-Gyu Jang, **Ari Yu**, and Sang-Kwang Lee 
 
@@ -123,7 +123,18 @@ IEIE 2025 (Poster)
 - Method And Apparatus for Generating E-Sports Match Highlight Commentary Based on Multimodal Video Captioning (U.S.A.) - Pending
 
 ## Domestic
-- 멀티모달 비디오 캡셔닝 기반 e스포츠 경기 하이라이트 해설 생성 방법 및 시스템, Application No. 10-2025-0157168
+- Method And Apparatus for Generating E-Sports Match Highlight Commentary Based on Multimodal Video Captioning, Application No. 10-2025-0157168
+<br>
+<br>
+
+# Technology Transfer
+- Generative AI-based eSports service automation technology
+<br>
+<br>
+
+
+# Software Registration
+- Narration Generation Software for Esports Game Videos
 <br>
 <br>
 
