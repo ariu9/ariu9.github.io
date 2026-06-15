@@ -123,7 +123,10 @@ IEIE 2025 (Poster)
 - Method And Apparatus for Generating E-Sports Match Highlight Commentary Based on Multimodal Video Captioning (U.S.A.) - Pending
 
 ## Domestic
-- Method And Apparatus for Generating E-Sports Match Highlight Commentary Based on Multimodal Video Captioning, Application No. 10-2025-0157168
+- Method And Apparatus for Generating E-Sports Match Highlight Commentary Based on Multimodal Video Captioning, Application 
+
+No. 10-2025-0157168
+
 <br>
 <br>
 
@@ -140,15 +143,14 @@ IEIE 2025 (Poster)
 
 
 # Projects
-- *Jul 2024 - Dec 2026*, Development of generative AI-based E-sports service automation platform technology to improve E-sports operation efficiency.
+- *2024.07 - 2026.12*, Development of generative AI-based E-sports service automation platform technology to improve E-sports operation efficiency.
 <br>
 <br>
 
 
 # Honors and Awards
-- *Dec 2025*, National Strategic Technology Excellence Scholarship.
-- *Jul 2025*, National Strategic Technology Excellence Scholarship.
-- *Jan 2021*, Grand Prize, Hankuk University of Foreign Studies 4th Company Analysis Creative Proposal Contest.
+- *2025*, National Strategic Technology Excellence Scholarship.
+- *2021*, Grand Prize, Hankuk University of Foreign Studies 4th Company Analysis Creative Proposal Contest.
   - Presented KOICA's strategy to build a platform for development cooperation in the Vietnamese film industry.
-- *Jan 2019*, Grand Prize, Hankuk University of Foreign Studies 6th Better World Idea Workshop.
+- *2019*, Grand Prize, Hankuk University of Foreign Studies 6th Better World Idea Workshop.
   - Presented an idea for a generation convergence radio under the theme of "Convergence of Culture and Science and Technology."
