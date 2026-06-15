@@ -15,16 +15,16 @@ author_profile: true
 <span class='anchor' id='about-me'></span>
 
 # About Me
-I am a MS/PhD student in the [Computer Vision Lab (KUAICV Lab)](https://kuaicv.com/) at Korea University, led by Prof. Sangpil Kim. Also, I'm working as a student researcher at [ETRI](https://www.etri.re.kr/kor/main/main.etri) (Electronics and Telecommunications Research Institute).
+I am an M.S. student at UST-ETRI and a student researcher in the Immersive Interaction Research Laboratory at [ETRI](https://www.etri.re.kr/kor/main/main.etri) (Electronics and Telecommunications Research Institute), led by Prof. Sang Kwang Lee.
 <br>
-My research interest includes computer vision and hand pose estimation.
+My research interests include computer vision and multimodal data processing.
 <br>
 <br>
 
 
 # Educations
-- *2024.03 - (now)*, M.S./Ph.D in Artificial Intelligence, Korea University.
-- *2020.03 - 2024.02*, B.S. in Cyber Security, Ajou University.
+- *2024.03 - (now)*, M.S. in Artificial Intelligence, University of Science and Technology.
+- *2018.03 - 2023.02*, B.A. in Arts, Double Major in Economics, Hankuk University of Foreign Studies.
 <br>
 <br>
 
@@ -37,30 +37,76 @@ My research interest includes computer vision and hand pose estimation.
 
 # Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIP 2025</div><img src='images/icip_2025.png' alt="sym" width="100%"></div></div>
+## International
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025 Workshop</div><img src='images/interaction.jpg' alt="Interaction-Aware Video Narrative Generation for Short-Form Gaming Content" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Veta-GS: View-Dependent Deformable 3D Gaussian Splatting for Thermal Infrared Novel-view Synthesis](https://ieeexplore.ieee.org/abstract/document/11084339)
+[Interaction-Aware Video Narrative Generation for Short-Form Gaming Content](https://neurips.cc/virtual/2025/loc/san-diego/131799)
 
-Myeongseok Nam, Wongi Park, Minsol Kim, **Hyejin Hur**, Soomok Lee
+**Ari Yu**, Sung-Yun Park, and Sang-Kwang Lee
 
-ICIP 2025
+Conference on Neural Information Processing Systems (NeurIPS) 2025: NextVid Workshop
 
-[**Paper**](https://arxiv.org/pdf/2505.19138),  [**Project**](https://nbril0313.github.io/Veta-GS/)
+[**Paper**](https://neurips.cc/virtual/2025/loc/san-diego/131799), [**Project**](https://github.com/code-lab78/IaVNG-interaction-log-detection)
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EuroGraphics 2025</div><img src='images/eg_2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MMSports 2025</div><img src='images/Sadvc.jpg' alt="Single-anchored Multi-modal Dense Video Captioning for Esports Broadcasts Commentaries" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Perspective Crop Based Egocentric Hand Pose Estimation via Fisheye Stereo Vision](https://diglib.eg.org/items/6c60afff-7c68-49f6-9bc0-8591d8fb44d3)
+[Single-anchored Multi-modal Dense Video Captioning for Esports Broadcasts Commentaries](https://dl.acm.org/doi/10.1145/3728423.3759412)
 
-**Hyejin Hur**, Seongmin Baek, Younhee Gil, Sangpil Kim
+**Ari Yu**, Jinwoo Hyun, Hyeong-Gyu Jang, Sung-Yun Park, and Sang-Kwang Lee
 
-EuroGraphics 2025 (poster)
+Proceedings of the 8th International ACM Workshop on Multimedia Content Analysis in Sports, pp. 31-38.
 
-[**Paper**](https://diglib.eg.org/server/api/core/bitstreams/704f59a2-6fc3-4e53-8814-35a943e79c3c/content)
+[**Paper**](https://dl.acm.org/doi/10.1145/3728423.3759412)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EAAI 2025</div><img src='images/neuro.jpg' alt="Toward transforming space exploration with artificial intelligence neuromorphic computing" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Toward transforming space exploration with artificial intelligence neuromorphic computing](https://www.sciencedirect.com/science/article/pii/S0952197625010565)
+
+**Ari Yu**, Seungwan Woo, and Hyojung Ahn
+
+Engineering Applications of Artificial Intelligence, 154, 111055.
+
+[**Paper**](https://www.sciencedirect.com/science/article/pii/S0952197625010565)
+
+</div>
+</div>
+
+## Domestic
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEIE 2025</div><img src='images/멀티모달 고밀도 비디오 캡셔닝 기반 MOBA 게임 하이라이트 해설 생성.png' alt="멀티모달 고밀도 비디오 캡셔닝 기반 MOBA 게임 하이라이트 해설 생성" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[멀티모달 고밀도 비디오 캡셔닝 기반 MOBA 게임 하이라이트 해설 생성](PASTE_PAPER_URL_HERE)
+
+**Ari Yu**, Hyeong-Gyu Jang, and Sang-Kwang Lee
+
+대한전자공학회 학술대회, pp. 2501-2504.
+
+[**Paper**](PASTE_PAPER_URL_HERE)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEIE 2025</div><img src='images/MOBA 게임에 대한 숏폼 영상 자동 생성 방법.png' alt="MOBA 게임에 대한 숏폼 영상 자동 생성 방법" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MOBA 게임에 대한 숏폼 영상 자동 생성 방법](PASTE_PAPER_URL_HERE)
+
+Hyeong-Gyu Jang, **Ari Yu**, and Sang-Kwang Lee
+
+대한전자공학회 학술대회, pp. 3868-3871.
+
+[**Paper**](PASTE_PAPER_URL_HERE)
 
 </div>
 </div>
