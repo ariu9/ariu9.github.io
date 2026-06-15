@@ -146,6 +146,8 @@ IEIE 2025 (Poster)
 
 
 # Honors and Awards
+- *Dec 2025*, National Strategic Technology Excellence Scholarship.
+- *Jul 2025*, National Strategic Technology Excellence Scholarship.
 - *Jan 2021*, Grand Prize, Hankuk University of Foreign Studies 4th Company Analysis Creative Proposal Contest.
   - Presented KOICA's strategy to build a platform for development cooperation in the Vietnamese film industry.
 - *Jan 2019*, Grand Prize, Hankuk University of Foreign Studies 6th Better World Idea Workshop.
