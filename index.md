@@ -152,8 +152,3 @@ IEIE 2025 (Poster)
   - Presented KOICA's strategy to build a platform for development cooperation in the Vietnamese film industry.
 - *Jan 2019*, Grand Prize, Hankuk University of Foreign Studies 6th Better World Idea Workshop.
   - Presented an idea for a generation convergence radio under the theme of "Convergence of Culture and Science and Technology."
-- *2020*, Active Learner Scholarship, Ajou University.
-- *2021-2023*, Information Security Specialization Scholarship, Ajou University.
-- *2021-2023*, Undergraduate Student Scholarship, Suncheon-Yangcheon Hur's Scholarship Foundation.
-- *2024-2025*, Graduate Student Scholarship, Suncheon-Yangcheon Hur's Scholarship Foundation.
-- *2022.12*, Excellent Award, AJOU Softcon.
